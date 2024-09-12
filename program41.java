@@ -1,5 +1,3 @@
-package basic;
-
 public class program41 {
     public static void main(String[] args) {
         int i, j;

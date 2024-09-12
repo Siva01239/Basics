@@ -1,4 +1,3 @@
-package basic;
 import java.util.ArrayList;
 public class program61 {
     public static void generateSubsets(String input, String current, int index) {

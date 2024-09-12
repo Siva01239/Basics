@@ -1,4 +1,3 @@
-package basic;
 public class program32 {
     public static void main(String[] args){
         int f1=-1;

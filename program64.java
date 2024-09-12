@@ -1,5 +1,3 @@
-package basic;
-
 public class program64 {
     public static int gcd(int a, int b) {
         while (b != 0) {

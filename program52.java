@@ -1,4 +1,3 @@
-package basic;
 import java.util.Arrays;
 public class program52 {
     public static void rotate(int[] arr, int positions) {

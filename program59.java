@@ -1,5 +1,3 @@
-package basic;
-
 public class program59 {
     public static boolean isPrime(int num, int divisor) {
         if (num < 2) return false;

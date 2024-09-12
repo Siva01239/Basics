@@ -1,4 +1,3 @@
-package basic;
 public class program56 {
     public static void main(String[] args) {
         int[][] matrix1 = {{1, 2}, {3, 4}, {5, 6}};

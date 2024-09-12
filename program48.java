@@ -1,5 +1,3 @@
-package basic;
-
 public class program48 {
     public static void main(String[] args) {
         int n = 4;

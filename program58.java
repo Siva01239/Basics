@@ -1,5 +1,3 @@
-package basic;
-
 public class program58 {
     public static void main(String[] args) {
         int limit = 10;

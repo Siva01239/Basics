@@ -1,4 +1,3 @@
-package basic;
 public class program62 {
     public static boolean isPrime(int num) {
         if (num < 2) return false;

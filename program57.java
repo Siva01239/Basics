@@ -1,4 +1,3 @@
-package basic;
 public class program57 {
     public static void permute(String str, String result) {
         if (str.length() == 0) {
